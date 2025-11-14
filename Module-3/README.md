@@ -1,16 +1,21 @@
-# Introduction to Machine Learning and Data Analysis
+# Module 3 – Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neworldemancer/DSF5)
+Machine learning techniques and practical model development.
 
-Learning outcomes:
+## Topics
+- Classification & regression  
+- Clustering & dimensionality reduction  
+- ML pipelines and feature engineering  
+- Model comparison & tuning  
+- Introduction to NLP and embeddings  
+- (Optional) Sphinx documentation  
 
+## Contents
+- ML notebooks  
+- PCA & clustering scripts  
+- Embeddings & NLP experiments  
 
-* Overview of machine learning pipelines and their implementation with scikit-learn
-* Regression and Classification: linear models and logistic regression
-* Decision trees & random forest models
-* Clustering with K-means and Gaussian mixtures
-* Principal component analysis (PCA) and non-linear embeddings (t-SNE and UMAP)
-* Artificial Neural networks as general fitters, fully connected nets used to classify the fashion-MNIST dataset
-* Scikit-learn and clustering maps, Q&A
-
-Our wepgabe is [dsl.unibe.ch](https://www.dsl.unibe.ch/)
+## Learning Goals
+- Build and evaluate ML models  
+- Work with real datasets  
+- Create reproducible ML workflows  
