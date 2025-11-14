@@ -1,9 +1,46 @@
-# CAS-Applied-Data-Science
-Repository for course material for the CAS Applied Data Science at the University of Bern
+# CAS Applied Data Science – University of Bern  
+Material and Projects by David Schwelien
 
-The CAS homepage is https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_science/index_eng.html. 
-Regulations and the study plan are linked there. Also registration information and schedules are maintained there. 
+Welcome to my repository for the **CAS Applied Data Science** (University of Bern).  
+This repository contains all course materials, exercises, scripts, and project work for Modules 1–4 as well as the Final Project.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigvehaug/CAS-Applied-Data-Science)
+Each folder is documented with its own README as required by the course guidelines.
 
-S. Haug, 2021-08-23
+---
+
+## 🎯 Purpose of this Repository
+
+- Document all CAS modules in a clear and reproducible way  
+- Store notebooks, scripts, exercises, and project files  
+- Enable transparent version control using Git & GitHub  
+- Prepare a portfolio for future work or applications  
+- Optionally: publish documentation via GitHub Pages or ReadTheDocs
+
+---
+
+## 🛠️ Technologies Used
+
+- Python (pandas, numpy, sklearn, matplotlib, nltk, transformers, etc.)
+- Jupyter Notebooks
+- Git & GitHub
+- Markdown documentation
+- (Optional) Sphinx / ReadTheDocs
+
+---
+
+## 🌐 Online Documentation (optional)
+
+A GitHub Page or ReadTheDocs site may be added later.
+
+---
+
+## 📚 Module Overview
+
+- **Module 1:** Python, Jupyter, Git, basic data analysis  
+- **Module 2:** Statistical methods and regression  
+- **Module 3:** Machine Learning & NLP  
+- **Module 4:** Final presentations and project preparation  
+- **Final Project:** Independent applied data science project  
+
+--- 
+
