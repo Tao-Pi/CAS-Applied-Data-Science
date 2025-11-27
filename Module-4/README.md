@@ -1,11 +1,18 @@
-# CAS in Applied Data Scinece, module 4, documentation and best practices
+# Module 4 – Final Colloquium
 
-code examples and tasks for CAS ADS module 4
+This module prepares the final presentation and project submission.
 
-Make sure you have installed the requirements to be able to run all the scripts:
+## Topics
+- Structuring a data science project  
+- Presentation techniques  
+- Peer review sessions  
+- Refining the final project plan  
 
-```bash
-pip install -r requirements.txt
-```
+## Contents
+- Presentation drafts  
+- Working notes  
+- Colloquium material  
 
----
+## Learning Goals
+- Communicate project results clearly  
+- Prepare a professional final report  
