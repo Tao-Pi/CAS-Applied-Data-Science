@@ -1,8 +1,8 @@
 .DS_Store
 01 - *.ipynb
 # data / outputs
-*.csv
 *.parquet
+*.csv
 *.delta
 data/
 outputs/
