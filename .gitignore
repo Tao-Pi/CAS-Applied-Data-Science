@@ -1,2 +1,22 @@
 .DS_Store
 01 - *.ipynb
+# data / outputs
+*.csv
+*.parquet
+*.delta
+data/
+outputs/
+
+# models / artifacts
+**/bertopic_nemotron_model*
+models/
+*.pkl
+*.joblib
+*.bin
+*.pt
+*.onnx
+
+# databricks / python cruft
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
